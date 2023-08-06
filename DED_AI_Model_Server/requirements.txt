@@ -1,0 +1,8 @@
+flask
+gunicorn
+torch
+segmentation-models-pytorch
+numpy
+opencv-python
+Pillow
+six
